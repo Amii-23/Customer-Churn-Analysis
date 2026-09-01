@@ -70,7 +70,3 @@ sql/ – SQL analysis queries
 powerbi/ – Power BI dashboard
 
 images/ – Dashboard screenshots
-
-## Dashboard Preview
-
-![Telecom Churn Dashboard](images/dashboard.png)
