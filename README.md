@@ -59,14 +59,4 @@ The Power BI dashboard provides insights into:
 - Churn by Payment Method
 - Customer Demographics
 
-## Project Structure
 
-data/ – Dataset files
-
-python/ – Data cleaning and preprocessing
-
-sql/ – SQL analysis queries
-
-powerbi/ – Power BI dashboard
-
-images/ – Dashboard screenshots
